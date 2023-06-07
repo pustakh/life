@@ -1,9 +1,12 @@
-# Questions
+# Scientific Approach to life 
 
-I am starting this website for asking right questions where I will put all the questions that I ask when I am studying a topic.
-This will help other people to know what the topic is about and what questions to ask, I will not put the answers but rather questions.
+Often there are thing that we do in life, where we do not use science to understand it 
+or make it better. For example, food - very less people know the science behind the
+working of "food". They learn by experience, which is often slow, as 
+you cannot make connection to other fields, but if you use
+science you can use your earlier learned experiences. 
 
-## Motivation
+In this site I will present material related to basic things in life but in
+scientific manner. Doing things in scientific manner will help you to make
+stronger connections and you will not forget them.
 
-I think as people grow up they lose their ability to ask right questions and make right connections or find connections. 
-And this is the main motivation behind this website.
